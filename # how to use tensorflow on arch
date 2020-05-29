@@ -1,0 +1,5 @@
+# how to use tensorflow on arch
+cd Downloads/python3.6/Downloads
+source bin/activate
+python
+>>

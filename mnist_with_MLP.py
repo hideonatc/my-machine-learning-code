@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
-from tensorflow,keras,layers import Dropout
+from tensorflow,keras.layers import Dropout
 from tensorflow.keras.datasets import mnist
 
 (X_train,Y_train),(X_test,Y_test) = mnist.load_data()
